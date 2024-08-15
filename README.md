@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nextjs-porfolio-six.vercel.app/](https://nextjs-porfolio-six.vercel.app/)
 
-- 💬 Ask me about **Reactjs , springboot et nexjs**
+- 💬 Ask me about **Reactjs , springboot et nextjs**
 
 - 📫 How to reach me **kaoutar.laouaj@ump.ac.ma**
 
